@@ -3,6 +3,7 @@ import torch.nn as nn
 import matplotlib.pyplot as plt
 import numpy as np
 torch.manual_seed(10)
+import testPy
 
 
 # step 1/5 生成数据
